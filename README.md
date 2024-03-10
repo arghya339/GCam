@@ -34,7 +34,7 @@ OnePlus Nord 5G
 OnePlus 8T 5G
 ```
 ```
-Realme 8 5G
+Realme 8 5G/Narzo 30 5G
 ```
 ```
 Realme GT Master Edition
