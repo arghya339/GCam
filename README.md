@@ -170,6 +170,6 @@ Samsung Galaxy A52s 5G
 | `Motorola Edge 20 Pro` | maxAndroid13•Codename:pstar•CustomROM:LineageOS. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Motorola_Edge_20_Pro(pstar)) |
 | `Samsung Galaxy A73 5G` | maxAndroid•Codename:a73xq•CustomROM:PixelExperience. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Samsung_Galaxy_A73_5G(a73xq)) |
 | `Samsung Galaxy M52 5G` | maxAndroid14•Codename:m52xq•CustomROM:LineageOS. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Samsung_Galaxy_M52_5G(m52xq)) |
-| `Samsung Galaxy A52s 5G` | maxAndroid14•Codename:a52sxq•CustomROM:LineageOS. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Samsung_Galaxy_A52s_5G_(a52sxq))https://github.com/arghya339/GCam/releases/tag/Samsung_Galaxy_A52s_5G_(a52sxq) |
+| `Samsung Galaxy A52s 5G` | maxAndroid14•Codename:a52sxq•CustomROM:LineageOS. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Samsung_Galaxy_A52s_5G_(a52sxq)) |
 
 </details>
