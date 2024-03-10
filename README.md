@@ -1,7 +1,7 @@
 # GCam
 Some Popular Custom AOSP ROM GCam.apk + Config.xml
 
-# GCam+Config-Documentation
+# GCam-Documentation
 
 <details><summary>
 
