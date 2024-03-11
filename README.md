@@ -64,6 +64,9 @@ Poco X5 5G/Redmi Note 12 5G
 POCO X4 Pro 5G/Redmi Note 11 Pro 5G
 ```
 ```
+Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G
+```
+```
 POCO X5 Pro 5G
 ```
 ```
@@ -152,6 +155,7 @@ Samsung Galaxy A52s 5G
 | `POCO M3 Pro 5G/Redmi Note 10T 5G` | maxAndroid13•MTK•Codename:camellia•CustomROM:AlphaDroid/LineageOS;PixelExtended/PixelExperience;EvolutionX/CRDROID. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/POCO_M3_Pro_5G(camellia)) |
 | `Poco X5 5G/Redmi Note 12 5G` | maxAndroid14•Codename:stone•CustomROM:AlphaDroid/LineageOS;PixelOS;EvolutionX/CrDroid. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/POCO_X5_5G(Stone)) |
 | `POCO X4 Pro 5G/Redmi Note 11 Pro 5G` | maxAndroid13•Codename:veux•CustomROM:AlphaDroid;PixelExtended/PixelExperience;EvolutionX/CRDROID. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/POCO_X4_Pro_5G(veux)) |
+| `Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G` | maxAndroid13•Codename:pissarro•CustomROM:EvolutionX. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Redmi_Note_11_Pro%2B_5G%2FXiaomi_11i_5G(pissarro)) |
 | `POCO X5 Pro 5G` | maxAndroid13•Codename:redwood•CustomROM:AlphaDroid;PixelExperience;EvolutionX/CRDROID. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/POCO_X5_Pro_5G(redwood)) |
 | `Mi 10i 5G` | maxAndroid12•Codename:gauguin•CustomROM:LineageOS;PixelExtended/PixelExperience. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Mi_10i_5G(gauguin)) |
 | `Xiaomi 11 Lite NE 5G` | maxAndroid13•Codename:lisa•CustomROM:LineageOS;PixelExperience;EvolutionX/CRDROID. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Xiaomi_11_Lite_NE_5G(lisa)) |
