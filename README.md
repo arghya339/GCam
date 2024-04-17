@@ -46,6 +46,9 @@ Realme GT Master Edition
 Realme GT Neo 2
 ```
 ```
+Realme GT 2
+```
+```
 Realme X50 Pro 5G
 ```
 ```
@@ -155,6 +158,7 @@ Samsung Galaxy A52s 5G
 | `Realme 9 Pro 5G` | maxAndroid14 • Codename:RMX3471/RMX3472 • CustomROM:LineageOS; PixelOS; EvolutionX. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Realme_9_Pro_5G(RMX3471/RMX3472)) |
 | `Realme GT Master Edition` | maxAndroid16 • Codename:lunaa • CustomROM:EvolutionX/ CRDROID. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Realme_GT_Master_Edition(lunaa)) |
 | `Realme GT Neo 2 ` | maxAndroid14 • Codename:RMX3370 • TWRP • CustomROM:ProjectElixir. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Realme_GT_Neo_2(RMX3370)) |
+| `Realme GT 2` | maxAndroid14 • Codename:porsche • TWRP • CustomROM:LineageOS/ Alphadroid; PixelExperience/ PixelOS; EvolutionX. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Realme_GT_2(porsche)) |
 | `Realme X50 Pro 5G` | maxAndroid14 • Codename:bladerunner • TWRP • CustomROM: EvolutionX/ CRDROID. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Realme_X50_Pro_5G(bladerunner)) |
 | `Realme X7 Max 5G` | maxAndroid13 • Codename:RMX3031 • TWRP • MTK • CustomROM:CRDROID. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Realme_X7_Max_5G(RMX3031)) |
 | `Realme GT 2 Pro` | maxAndroid16 • Codename:ferrarri • TWRP •CustomROM:LineageOS. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Realme_GT_2_Pro(ferrarri)) |
