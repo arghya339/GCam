@@ -112,6 +112,9 @@ Xiaomi Mi A3
 Redmi 8A/Redmi 7A
 ```
 ```
+Moto G51 5G
+```
+```
 Motorola Edge 20
 ```
 ```
@@ -180,6 +183,7 @@ Samsung Galaxy A52s 5G
 | `POCO F1` | maxAndroid10 • Codename:beryllium • TWRP • CustomROM:AlphaDroid/ LineageOS; PixelExtended/ PixelExperience; EvolutionX/ CRDROID. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/POCO_F1(beryllium)) |
 | `Xiaomi Mi A3` | maxAndroid11 • Codename:laurel_sprout • TWRP • CustomROM:PixelExtended/ PixelExperience; CRDROID. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Xiaomi_Mi_A3(laurel_sprout)) |
 | `Redmi 8A/Redmi 7A` | maxAndroid10 • Codename:mi439 • TWRP • CustomROM:AlphaDroid/ LineageOS; PixelExtended/ PixelExperience; EvolutionX/ CrDroid. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Redmi_8A%2FRedmi_7A(mi439)) |
+| `Moto G51 5G` | maxAndroid12 • Codename:cypfq • TWRP • CustomROM:EvolutionX/ CRDROID. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Moto_G51_5G(cypfq)) |
 | `Motorola Edge 20` | maxAndroid15 • Codename:berlin • TWRP • CustomROM:LineageOS; PixelExperience. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Motorola_Edge_20(berlin)) |
 | `Motorola Edge 30` | maxAndroid16 • Codename:dubai • TWRP • CustomROM:LineageOS; PixelExperience. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Motorola_Edge_30(dubai)) |
 | `Moto G 5G` | maxAndroid11 • Codename:kiev • CustomROM:LineageOS. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Moto_G_5G(kiev)) |
