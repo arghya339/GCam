@@ -91,7 +91,7 @@ Mi 11x
 Mi 10T 5G
 ```
 ```
-Redmi Note 13 Pro 5G
+POCO X6 5G/Redmi Note 13 Pro 5G
 ```
 ```
 POCO F5
@@ -179,7 +179,7 @@ Samsung Galaxy A52s 5G
 | `Xiaomi 11 Lite NE 5G` | maxAndroid13 • Codename:lisa • TWRP • CustomROM:LineageOS; PixelExperience; EvolutionX/ CRDROID. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Xiaomi_11_Lite_NE_5G(lisa)) |
 | `Mi 11x` | maxAndroid13 • Codename:alioth • TWRP • CustomROM:AlphaDroid/ LineageOS; PixelExtended/ PixelExperience; EvolutionX/ CRDROID. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Mi_11x(alioth)) |
 | `Mi 10T 5G` | maxAndroid12 • Codename:apollon • TWRP • CustomROM:LineageOS; PixelExperience; CRDROID. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Mi_10T_5G(apollon)) |
-| `Redmi Note 13 Pro 5G` | maxAndroid15 • Codename:garnet • TWRP • CustomROM:LineageOS; PixysOS; EvolutionX/ CRDROID. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Redmi_Note_13_Pro_5G(garnet)) |
+| `POCO X6 5G/ Redmi Note 13 Pro 5G` | maxAndroid15 • Codename:garnet • TWRP • CustomROM:LineageOS; PixysOS; EvolutionX/ CRDROID. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/POCO_X6_5G(garnet)) |
 | `POCO F5` | maxAndroid13 • Codename:marble • TWRP • CustomROM:AlphaDroid; EvolutionX/ CRDROID. |  [GCam+Config](https://github.com/arghya339/GCam/releases/tag/POCO_F5(marble)) |
 | `Mi 11X Pro` | maxAndroid13 • Codename:haydn • SKKK-TWRP • CustomROM:LineageOS; PixelExperience; CRDROID. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Mi_11X_Pro(haydn)) |
 | `POCO F4 5G` | maxAndroid13 • Codename:munch • TWRP • CustomROM:PixelExtended/ PixelExperience; EvolutionX/ CRDROID. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/POCO_F4_5G(munch)) |
