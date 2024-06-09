@@ -112,6 +112,9 @@ POCO F1
 Xiaomi Mi A3
 ```
 ```
+POCO C55/Xiaomi Redmi 12C
+```
+```
 Redmi 8A/Redmi 7A
 ```
 ```
@@ -186,6 +189,7 @@ Samsung Galaxy A52s 5G
 | `Xiaomi 11T Pro` | maxAndroid13 • Codename:vili • TWRP • CustomROM:Alphadroid/ LineageOs; PixelExperience; EvolutionX/ crDroid. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Xiaomi_11T_Pro(vili)) |
 | `POCO F1` | maxAndroid10 • Codename:beryllium • TWRP • CustomROM:AlphaDroid/ LineageOS; PixelExtended/ PixelExperience; EvolutionX/ CRDROID. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/POCO_F1(beryllium)) |
 | `Xiaomi Mi A3` | maxAndroid11 • Codename:laurel_sprout • TWRP • CustomROM:PixelExtended/ PixelExperience; CRDROID. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Xiaomi_Mi_A3(laurel_sprout)) |
+| `POCO C55` | maxAndroid14 • Codename:earth • TWRP • CustomROM:LineageOS. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/POCO_C55%2FXiaomi_Redmi_12C(earth)) |
 | `Redmi 8A/Redmi 7A` | maxAndroid10 • Codename:mi439 • TWRP • CustomROM:AlphaDroid/ LineageOS; PixelExtended/ PixelExperience; EvolutionX/ CrDroid. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Redmi_8A%2FRedmi_7A(mi439)) |
 | `Moto G51 5G` | maxAndroid12 • Codename:cypfq • TWRP • CustomROM:EvolutionX/ CRDROID. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Moto_G51_5G(cypfq)) |
 | `Motorola Edge 20` | maxAndroid15 • Codename:berlin • TWRP • CustomROM:LineageOS; PixelExperience. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Motorola_Edge_20(berlin)) |
