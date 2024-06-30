@@ -28,6 +28,9 @@ Nothing Phone(1)
 OnePlus Nord CE 2 Lite 5G/Realme 9 Pro
 ```
 ```
+OnePlus Nord CE 3 5G
+```
+```
 OnePlus Nord 5G
 ```
 ```
@@ -161,6 +164,7 @@ Samsung Galaxy A52s 5G
 | `Google Pixel 6a` | maxAndroid15 • Codename:bluejay • CustomROM:LineageOS; EvolutionX. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Google_Pixel_6a(bluejay)) |
 | `Nothing Phone(1)` | maxAndroid16 • Codename:Spacewar • OFRP • CustomROM:LineageOS; PixelExperience. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Nothing_Phone1(Spacewar)) |
 | `OnePlus Nord CE 2 Lite 5G` | maxAndroid14 • Codename:oscar • TWRP • CustomROM:PixelOS. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/OnePlus_Nord_CE_2_Lite_5G(oscar)) |
+| `OnePlus Nord CE 3 5G` | maxAndroid15 • Codename:CPH2569 • CustomROM:LineageOS. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/OnePlus_Nord_CE_3_5G(CPH2569)) |
 | `OnePlus Nord 5G` | maxAndroid12 • Codename:avicii • TWRP•CustomROM:AlphaDroid/ LineageOS; PixelExtended/ PixelExperience; CRDROID. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/OnePlus_Nord_5G(avicii)) |
 | `OnePlus 8T 5G` | maxAndroid16 • Codename:kebab • TWRP • CustomROM:AlphaDroid/ LineageOS; PixelExtended/ PixelExperience; EvolutionX/ CRDROID. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/OnePlus_8T_5G_(kebab)) |
 | `Realme 8 5G/Narzo 30 5G` | maxAndroid13 • Codename:RMX324X • TWRP • CustomROM:LineageOS. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Realme_8_5G(RMX3241)%2FNarzo_30_5G(RMX3242)) |
