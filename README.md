@@ -112,6 +112,9 @@ POCO F4 5G
 Xiaomi 11T Pro
 ```
 ```
+POCO F6 5G
+```
+```
 POCO F1
 ```
 ```
@@ -195,6 +198,7 @@ Samsung Galaxy A52s 5G
 | `Mi 11X Pro` | maxAndroid13 • Codename:haydn • SKKK-TWRP • CustomROM:LineageOS; PixelExperience; CRDROID. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Mi_11X_Pro(haydn)) |
 | `POCO F4 5G` | maxAndroid13 • Codename:munch • TWRP • CustomROM:PixelExtended/ PixelExperience; EvolutionX/ CRDROID. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/POCO_F4_5G(munch)) |
 | `Xiaomi 11T Pro` | maxAndroid13 • Codename:vili • TWRP • CustomROM:Alphadroid/ LineageOs; PixelExperience; EvolutionX/ crDroid. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Xiaomi_11T_Pro(vili)) |
+| `POCO F6 5G` | maxAndroid17 • Codename:Peridot • CustomROM:LineageOS/ Alphadroid; PixelOS; EvolutionX/ CrDroid. |  [GCam+Config](https://github.com/arghya339/GCam/releases/tag/POCO_F6_(Peridot)) |
 | `POCO F1` | maxAndroid10 • Codename:beryllium • TWRP • CustomROM:AlphaDroid/ LineageOS; PixelExtended/ PixelExperience; EvolutionX/ CRDROID. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/POCO_F1(beryllium)) |
 | `Xiaomi Mi A3` | maxAndroid11 • Codename:laurel_sprout • TWRP • CustomROM:PixelExtended/ PixelExperience; CRDROID. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Xiaomi_Mi_A3(laurel_sprout)) |
 | `POCO C55/Redmi 12C` | maxAndroid14 • MTK • Codename:earth • TWRP • CustomROM:LineageOS. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/POCO_C55%2FXiaomi_Redmi_12C(earth)) |
