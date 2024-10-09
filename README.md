@@ -43,6 +43,9 @@ OnePlus 8T 5G
 Realme 8 5G/Narzo 30 5G
 ```
 ```
+Realme 9 5G Speed Edition
+```
+```
 Realme 9 Pro 5G
 ```
 ```
@@ -178,6 +181,8 @@ Samsung Galaxy A52s 5G
 | `OnePlus Nord 2 5G` | maxAndroid13 • Codename:Denniz • TWRP•CustomROM:LineageOS; PixelExperiencePlus; EvolutionX. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/OnePlus_Nord_2_5G(Denniz)) |
 | `OnePlus 8T 5G` | maxAndroid16 • Codename:kebab • TWRP • CustomROM:AlphaDroid/ LineageOS; PixelExtended/ PixelExperience; EvolutionX/ CRDROID. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/OnePlus_8T_5G_(kebab)) |
 | `Realme 8 5G/Narzo 30 5G` | maxAndroid13 • Codename:RMX324X • TWRP • CustomROM:LineageOS. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Realme_8_5G(RMX3241)%2FNarzo_30_5G(RMX3242)) |
+
+| `Realme 9 5G Speed Edition` | maxAndroid13 • Codename:ice • CustomROM:LineageOS; PixelExperience/ Project Elixir; Evolution-X/ crDroid. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Realme_9_5G_SE(ice)) |
 | `Realme 9 Pro 5G` | maxAndroid14 • Codename:RMX3471/RMX3472 • CustomROM:LineageOS; PixelOS; EvolutionX. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Realme_9_Pro_5G(RMX3471/RMX3472)) |
 | `Realme 10 Pro 5G` | maxAndroid15 • Codename:luigi • CustomROM:LineageOS. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Realme_10_Pro_5G(luigi)) |
 | `Realme GT Master Edition` | maxAndroid16 • Codename:lunaa • CustomROM:EvolutionX/ CRDROID. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Realme_GT_Master_Edition(lunaa)) |
