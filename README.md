@@ -91,6 +91,9 @@ Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G
 POCO X5 Pro 5G
 ```
 ```
+Redmi Note 12 Pro 5G
+```
+```
 Mi 10i 5G
 ```
 ```
@@ -197,6 +200,7 @@ Samsung Galaxy A52s 5G
 | `POCO X4 Pro 5G/Redmi Note 11 Pro 5G` | maxAndroid13 • Codename:veux • TWRP • CustomROM:AlphaDroid; PixelExtended/ PixelExperience; EvolutionX/ CRDROID. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/POCO_X4_Pro_5G(veux)) |
 | `Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G` | maxAndroid13 • Codename:pissarro • CustomROM:PixelExperience; EvolutionX. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Redmi_Note_11_Pro%2B_5G%2FXiaomi_11i_5G(pissarro)) |
 | `POCO X5 Pro 5G` | maxAndroid13 • Codename:redwood • TWRP • CustomROM:AlphaDroid; PixelExperience; EvolutionX/ CRDROID. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/POCO_X5_Pro_5G(redwood)) |
+| `Redmi Note 12 Pro 5G` | maxAndroid14 • MTK • Codename:rubyx • CustomROM:LineageOS/ AlphaDroid; PixelExperience/ PixelOS; Evolution-X/ crDroid. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Redmi_Note_12_Pro_5G(rubyx)) |
 | `Mi 10i 5G` | maxAndroid12 • Codename:gauguin • TWRP • CustomROM:LineageOS; PixelExtended/ PixelExperience. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Mi_10i_5G(gauguin)) |
 | `Xiaomi 11 Lite NE 5G` | maxAndroid13 • Codename:lisa • TWRP • CustomROM:LineageOS; PixelExperience; EvolutionX/ CRDROID. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Xiaomi_11_Lite_NE_5G(lisa)) |
 | `Mi 11x` | maxAndroid13 • Codename:alioth • TWRP • CustomROM:AlphaDroid/ LineageOS; PixelExtended/ PixelExperience; EvolutionX/ CRDROID. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Mi_11x(alioth)) |
