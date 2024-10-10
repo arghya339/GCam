@@ -130,10 +130,7 @@ POCO F1
 Xiaomi Mi A3
 ```
 ```
-POCO C55/Xiaomi Redmi 12C
-```
-```
-Redmi 8A/Redmi 7A
+POCO M4 Pro
 ```
 ```
 Moto G51 5G
@@ -213,8 +210,7 @@ Samsung Galaxy A52s 5G
 | `POCO F6 5G` | maxAndroid17 • Codename:Peridot • CustomROM:LineageOS/ Alphadroid; PixelOS; EvolutionX/ CrDroid. |  [GCam+Config](https://github.com/arghya339/GCam/releases/tag/POCO_F6_(Peridot)) |
 | `POCO F1` | maxAndroid10 • Codename:beryllium • TWRP • CustomROM:AlphaDroid/ LineageOS; PixelExtended/ PixelExperience; EvolutionX/ CRDROID. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/POCO_F1(beryllium)) |
 | `Xiaomi Mi A3` | maxAndroid11 • Codename:laurel_sprout • TWRP • CustomROM:PixelExtended/ PixelExperience; CRDROID. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Xiaomi_Mi_A3(laurel_sprout)) |
-| `POCO C55/Redmi 12C` | maxAndroid14 • MTK • Codename:earth • TWRP • CustomROM:LineageOS. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/POCO_C55%2FXiaomi_Redmi_12C(earth)) |
-| `Redmi 8A/Redmi 7A` | maxAndroid10 • Codename:mi439 • TWRP • CustomROM:AlphaDroid/ LineageOS; PixelExtended/ PixelExperience; EvolutionX/ CrDroid. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Redmi_8A%2FRedmi_7A(mi439)) |
+| `POCO M4 Pro` | maxAndroid13 • MTK • Codename:fleur • TWRP • CustomROM:LineageOS/ AlphaDroid; PixelExperience/ Project Elixir; Evolution-X/ crDroid. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/POCO_M4_Pro(fleur)) |
 | `Moto G51 5G` | maxAndroid12 • Codename:cypfq • TWRP • CustomROM:EvolutionX/ CRDROID. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Moto_G51_5G(cypfq)) |
 | `Motorola Edge 20` | maxAndroid15 • Codename:berlin • TWRP • CustomROM:LineageOS; PixelExperience. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Motorola_Edge_20(berlin)) |
 | `Motorola Edge 30` | maxAndroid16 • Codename:dubai • TWRP • CustomROM:LineageOS; PixelExperience. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Motorola_Edge_30(dubai)) |
