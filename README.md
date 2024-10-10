@@ -22,6 +22,9 @@ Google Pixel 4a 5G
 Google Pixel 6a
 ```
 ```
+Google Pixel 7a
+```
+```
 Nothing Phone(1)
 ```
 ```
@@ -174,6 +177,7 @@ Samsung Galaxy A52s 5G
 |:--------:|:--------------:|:-----------------:|
 | `Google Pixel 4a 5G` | maxAndroid14 • Codename:bramble • TWRP • CustomROM:AlphaDroid / LineageOS; PixelExperience; EvolutionX / CrDroid. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Google_Pixel_4a_5G(bramble)) |
 | `Google Pixel 6a` | maxAndroid15 • Codename:bluejay • CustomROM:LineageOS; EvolutionX. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Google_Pixel_6a(bluejay)) |
+| `Google Pixel 7a` |maxAndroid16 • Codename:lynx • OFRP • CustomROM:LineageOS; Project Elixir; EvolutionX/ crDroid| [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Google_Pixel_7a(lynx)) |
 | `Nothing Phone(1)` | maxAndroid16 • Codename:Spacewar • OFRP • CustomROM:LineageOS; PixelExperience. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Nothing_Phone1(Spacewar)) |
 | `OnePlus Nord CE 2 Lite 5G` | maxAndroid14 • Codename:oscar • TWRP • CustomROM:PixelOS. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/OnePlus_Nord_CE_2_Lite_5G(oscar)) |
 | `OnePlus Nord CE 3 5G` | maxAndroid15 • Codename:CPH2569 • CustomROM:LineageOS. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/OnePlus_Nord_CE_3_5G(CPH2569)) |
