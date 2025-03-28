@@ -145,6 +145,9 @@ POCO M4 Pro
 Moto G51 5G
 ```
 ```
+Moto G54 5G
+```
+```
 Motorola Edge 20
 ```
 ```
@@ -224,6 +227,7 @@ Samsung Galaxy A52s 5G
 | `Xiaomi Mi A3` | maxAndroid11 • Codename:laurel_sprout • TWRP • CustomROM:PixelExtended/ PixelExperience; CRDROID. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Xiaomi_Mi_A3(laurel_sprout)) |
 | `POCO M4 Pro` | maxAndroid13 • MTK • Codename:fleur • TWRP • CustomROM:LineageOS/ AlphaDroid; PixelExperience/ Project Elixir; Evolution-X/ crDroid. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/POCO_M4_Pro(fleur)) |
 | `Moto G51 5G` | maxAndroid12 • Codename:cypfq • TWRP • CustomROM:EvolutionX/ CRDROID. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Moto_G51_5G(cypfq)) |
+| `Moto G54 5G` | maxAndroid14 • MTK D7020 • Codename:cancunf • CustomROM:LineageOS; PixelOS; crDroidX. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/moto_g54_5G_cancunf) |
 | `Motorola Edge 20` | maxAndroid15 • Codename:berlin • TWRP • CustomROM:LineageOS; PixelExperience. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Motorola_Edge_20(berlin)) |
 | `Motorola Edge 30` | maxAndroid16 • Codename:dubai • TWRP • CustomROM:LineageOS; PixelExperience. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Motorola_Edge_30(dubai)) |
 | `Moto G 5G` | maxAndroid11 • Codename:kiev • CustomROM:LineageOS. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/Moto_G_5G(kiev)) |
