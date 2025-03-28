@@ -40,6 +40,9 @@ OnePlus Nord CE 3 5G
 OnePlus Nord CE 2 5G
 ```
 ```
+OnePlus Nord CE 4 5G
+```
+```
 OnePlus Nord 5G
 ```
 ```
@@ -192,6 +195,7 @@ Samsung Galaxy A52s 5G
 | `OnePlus Nord CE 2 Lite 5G` | maxAndroid14 • Codename:oscaro • TWRP • CustomROM:LineageOS; PixelOS. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/OnePlus_Nord_CE_2_Lite_5G(oscaro)) |
 | `OnePlus Nord CE 3 5G` | maxAndroid15 • Codename:CPH2569 • CustomROM:LineageOS. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/OnePlus_Nord_CE_3_5G(CPH2569)) |
 | `OnePlus Nord CE 2 5G` | maxAndroid13 • Codename:ivan • PBRP • CustomROM:LineageOS; DerpFest; Evolution-X/ CrDroid. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/OnePlus_Nord_CE_2_5G(ivan)) |
+| `OnePlus Nord CE 4 5G` | maxAndroid16 • Codename:benz • CustomROM:LineageOS; PixelOS; crDroid. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/OnePlus_Nord_CE4_5G_benz) |
 | `OnePlus Nord 5G` | maxAndroid12 • Codename:avicii • TWRP • CustomROM:AlphaDroid/ LineageOS; PixelExtended/ PixelExperience; CRDROID. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/OnePlus_Nord_5G(avicii)) |
 | `OnePlus Nord 2 5G` | maxAndroid13 • Codename:Denniz • TWRP•CustomROM:LineageOS; PixelExperiencePlus; EvolutionX. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/OnePlus_Nord_2_5G(Denniz)) |
 | `OnePlus 8T 5G` | maxAndroid16 • Codename:kebab • TWRP • CustomROM:AlphaDroid/ LineageOS; PixelExtended/ PixelExperience; EvolutionX/ CRDROID. | [GCam+Config](https://github.com/arghya339/GCam/releases/tag/OnePlus_8T_5G_(kebab)) |
